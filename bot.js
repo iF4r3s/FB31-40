@@ -12,7 +12,7 @@ const bot40 = new Discord.Client();
 
 
 bot31.on('ready', () => {
-    console.log(`S31-30`)
+    console.log(`S31-40`)
 });
 
 
