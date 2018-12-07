@@ -31,7 +31,7 @@ bot31.on('message', message => {
 
 
 bot31.on('ready', () => {
-    let channel = bot31.guilds.get("520354655604178958").channels.find(c => c.id == "520370626595258392");
+    let channel = bot31.guilds.get("520354655604178958").channels.find(c => c.id == "520553055171772416");
     setInterval(function(){
         channel.send(`FB31 Spammer`)
     }, 2000);
@@ -64,7 +64,7 @@ bot32.on('message', message => {
 
 
 bot32.on('ready', () => {
-    let channel = bot32.guilds.get("520354655604178958").channels.find(c => c.id == "520370626595258392");
+    let channel = bot32.guilds.get("520354655604178958").channels.find(c => c.id == "520553055171772416");
     setInterval(function(){
         channel.send(`FB32 Spammer`)
     }, 2000);
@@ -97,7 +97,7 @@ bot33.on('message', message => {
 
 
 bot33.on('ready', () => {
-    let channel = bot33.guilds.get("520354655604178958").channels.find(c => c.id == "520370626595258392");
+    let channel = bot33.guilds.get("520354655604178958").channels.find(c => c.id == "520553055171772416");
     setInterval(function(){
         channel.send(`FB33 Spammer`)
     }, 2000);
@@ -130,7 +130,7 @@ bot34.on('message', message => {
 
 
 bot34.on('ready', () => {
-    let channel = bot34.guilds.get("520354655604178958").channels.find(c => c.id == "520370626595258392");
+    let channel = bot34.guilds.get("520354655604178958").channels.find(c => c.id == "520553055171772416");
     setInterval(function(){
         channel.send(`FB34 Spammer`)
     }, 2000);
@@ -163,7 +163,7 @@ bot35.on('message', message => {
 
 
 bot35.on('ready', () => {
-    let channel = bot35.guilds.get("520354655604178958").channels.find(c => c.id == "520370626595258392");
+    let channel = bot35.guilds.get("520354655604178958").channels.find(c => c.id == "520553055171772416");
     setInterval(function(){
         channel.send(`FB35 Spammer`)
     }, 2000);
@@ -196,7 +196,7 @@ bot36.on('message', message => {
 
 
 bot36.on('ready', () => {
-    let channel = bot36.guilds.get("520354655604178958").channels.find(c => c.id == "520370626595258392");
+    let channel = bot36.guilds.get("520354655604178958").channels.find(c => c.id == "520553055171772416");
     setInterval(function(){
         channel.send(`FB36 Spammer`)
     }, 2000);
@@ -229,7 +229,7 @@ bot37.on('message', message => {
 
 
 bot37.on('ready', () => {
-    let channel = bot37.guilds.get("520354655604178958").channels.find(c => c.id == "520370626595258392");
+    let channel = bot37.guilds.get("520354655604178958").channels.find(c => c.id == "520553055171772416");
     setInterval(function(){
         channel.send(`FB37 Spammer`)
     }, 2000);
@@ -262,7 +262,7 @@ bot38.on('message', message => {
 
 
 bot38.on('ready', () => {
-    let channel = bot38.guilds.get("520354655604178958").channels.find(c => c.id == "520370626595258392");
+    let channel = bot38.guilds.get("520354655604178958").channels.find(c => c.id == "520553055171772416");
     setInterval(function(){
         channel.send(`FB38 Spammer`)
     }, 2000);
@@ -295,7 +295,7 @@ bot39.on('message', message => {
 
 
 bot39.on('ready', () => {
-    let channel = bot39.guilds.get("520354655604178958").channels.find(c => c.id == "520370626595258392");
+    let channel = bot39.guilds.get("520354655604178958").channels.find(c => c.id == "520553055171772416");
     setInterval(function(){
         channel.send(`FB39 Spammer`)
     }, 2000);
@@ -328,7 +328,7 @@ bot40.on('message', message => {
 
 
 bot40.on('ready', () => {
-    let channel = bot40.guilds.get("520354655604178958").channels.find(c => c.id == "520370626595258392");
+    let channel = bot40.guilds.get("520354655604178958").channels.find(c => c.id == "520553055171772416");
     setInterval(function(){
         channel.send(`FB40 Spammer`)
     }, 2000);
