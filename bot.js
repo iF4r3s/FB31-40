@@ -130,12 +130,8 @@ bot34.on('message', message => {
 
 
 bot34.on('ready', () => {
-    l5et channel = bot34bot33.on('ready', () => {
-    let channel = bot35.guilds.get("520354655604178958").channels.find(c => c.id == "520553055171772416");
-    setInterval(function(){
-        channel.send(`FB35 Spammer`)
-    }, 2000);
-});5.guilds.get("520354655604178958").channels.find(c => c.id == "520553055171772416");
+    let channel = bot34.on('ready', () => {
+    let channel = bot34.guilds.get("520354655604178958").channels.find(c => c.id == "520553055171772416");
     setInterval(function(){
         channel.send(`FB34 Spammer`)
     }, 2000);
@@ -167,7 +163,7 @@ bot35.on('message', message => {
 });
 
 
-bot335.on('ready', () => {
+bot35.on('ready', () => {
     let channel = bot35.guilds.get("520354655604178958").channels.find(c => c.id == "520553055171772416");
     setInterval(function(){
         channel.send(`FB35 Spammer`)
